@@ -1,6 +1,8 @@
 {
   "name": "beacon-starter",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "d64ddc17"
 }
